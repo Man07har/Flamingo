@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Flamingo/static/css/main.bf30f572.css",
+    "main.js": "/Flamingo/static/js/main.5fa35518.js",
+    "static/media/d_pp.jpg": "/Flamingo/static/media/d_pp.17b0f6be770b4a551cfa.jpg",
+    "static/media/m_pp.jpg": "/Flamingo/static/media/m_pp.7d2b3ee4252183594934.jpg",
+    "static/media/a_pp.jpg": "/Flamingo/static/media/a_pp.bee40aa5735e86c2cf21.jpg",
+    "index.html": "/Flamingo/index.html",
+    "main.bf30f572.css.map": "/Flamingo/static/css/main.bf30f572.css.map",
+    "main.5fa35518.js.map": "/Flamingo/static/js/main.5fa35518.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf30f572.css",
+    "static/js/main.5fa35518.js"
+  ]
+}
