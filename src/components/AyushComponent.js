@@ -18,8 +18,10 @@ export default function AyushComponent() {
           Ayush Kumar Srivastava
         </h4>
         <p className="mb-2 leading-normal">
-          react tailwind css card with image It is a long established fact that
-          a reader will be distracted by the readable content.
+        Results-driven computer science student from Amity University Lucknow Campus passionate about 
+        developing user-friendly software applications. Excellent problem-solving skills
+         and ability to perform well in a team. Seeking to help any company that have development needs, their 
+         product as a software engineer, as well as grow and develop my own skills as a coder.
         </p>
         <div className="flex flex-row">
           <button className="text-4xl rounded shadow m-2 hover:text-grey-500">

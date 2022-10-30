@@ -23,12 +23,12 @@ export default function AyushComponent() {
         </h4>
         <p className="mb-2 leading-normal">
           I am a computer science engineering student at Amity University
-          Lucknow campus. I’m currently in 3rd year. Computer Science
+          Lucknow campus. I'm currently in 3rd year. Computer Science
           engineering methodologies, tools, software packages, and procedures
-          have become second nature to me as a result of my education. In
-          addition, I have been interested in building up my communication
-          skills which in turn made me to take part in various group
-          discussions, debate and speech right from my childhood.
+          have become second nature to me.I'm always 
+          interested in learning about new work prospects, therefore I'd be happy to 
+          talk about engineering job internships and the topics that are technical for 
+          that matter.
         </p>
         <div className="flex flex-row">
           <button className="text-4xl rounded shadow m-2 hover:text-grey-500">
